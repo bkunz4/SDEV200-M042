@@ -16,7 +16,7 @@ public class RefinedCount {
         + " is " + countKeywords(file));
     }
     else {
-      System.out.println("File " + args[0] + " does not exist");
+      System.out.println("The file " + args[0] + " does not exist");
     }
   }
 
